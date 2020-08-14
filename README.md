@@ -8,4 +8,4 @@ tested using jest to check the status code response when the generic endpoint is
 tested using enzyme.
 
 # vanilla-js     
-jest --coverage in 'scripts' creates a report that shows you what % of functions in the file you are testing have been testes. A 'coverage' file should be made in your root directory that has a .html file in, open this with live server and you can see a better UI version of what is shown in the console.
+jest --coverage in 'scripts' creates a report that shows you what % of functions in the file you are testing have been tested. When you run th tests, a 'coverage' file should be made in your root directory that has a .html file in, open this with live server and you can see a nicer version of what is shown in the console.
